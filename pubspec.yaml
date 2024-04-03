@@ -33,7 +33,7 @@ dependencies:
   flat_buffers: ^23.5.26
   flutter:
     sdk: flutter
-  flutter_map: ^6.1.0
+  flutter_map: ^7.0.0-dev.1
   http: ^1.2.1
   latlong2: ^0.9.1
   meta: ^1.11.0
